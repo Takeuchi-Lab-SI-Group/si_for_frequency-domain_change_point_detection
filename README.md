@@ -24,7 +24,7 @@ pip install tqdm
 
 ## Reproducibility
 
-To reproduce the results shown in the paper, please see the following instructions after the installation.
+To reproduce the results shown in the paper, please see the following instructions after the installation step.
 
 For reproducing Figure 5 (type I error rate).
 
