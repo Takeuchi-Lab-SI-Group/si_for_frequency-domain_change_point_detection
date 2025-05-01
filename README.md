@@ -13,7 +13,7 @@ This package has the following dependencies:
    - numba (version 0.60.0 or higher, we use 0.60.0)
    - tqdm (version 4.67.0 or higher, we use 4.67.0)
 
-Please install the following dependencies by pip.
+Please install these dependencies by pip.
 
 ```
 pip install sicore # note that numpy is automatically installed by sicore
@@ -24,7 +24,7 @@ pip install tqdm
 
 ## Reproducibility
 
-To reproduce the results shown in the paper, please see the following instructions after the installation.
+To reproduce the results shown in the paper, please see the following instructions after the installation step.
 
 For reproducing Figure 5 (type I error rate).
 
