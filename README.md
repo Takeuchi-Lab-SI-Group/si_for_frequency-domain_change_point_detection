@@ -16,4 +16,12 @@ To reproduce the results shown in the paper, please see the following instructio
 
 For reproducing Figure 5 (type I error rate).
 
+```
+sh experiment_fpr.sh
+```
+
 For reproducing Figure 6 (power).
+
+```
+sh experiment_tpr.sh
+```
